@@ -6,7 +6,8 @@
     "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,5 +23,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/ZhangMYihua/lesson-2.git",
+  "author": "zawtun <zzt.nyc@gmail.com>",
+  "license": "MIT"
 }
