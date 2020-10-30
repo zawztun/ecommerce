@@ -4,8 +4,7 @@ import './directory.scss';
 
 export class Directory extends Component {
     constructor() {
-        super()
-    
+        super()    
         this.state = {
              sections:[
                 {
@@ -44,7 +43,7 @@ export class Directory extends Component {
               ]
         }
     }
-    
+
     render() {
         return (
             <div className = "directory-menu">
