@@ -58,7 +58,7 @@ class SignUp extends Component {
                         name = 'displayName'
                         value= {displayName}
                         onChange = {this.handleChange}
-                        label = 'display Name'
+                        label = 'Display Name'
                         required
                     >
                     </FormInput>
@@ -89,9 +89,7 @@ class SignUp extends Component {
                         required
                     >
                     </FormInput>
-                    <CustomButton type= 'submit'> SIGN IN</CustomButton>
-
-                   
+                    <CustomButton type= 'submit'> SIGN UP</CustomButton>                   
                 </form>
             </div>
         )
