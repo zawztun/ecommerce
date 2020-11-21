@@ -1,7 +1,7 @@
 {
   "name": "complete-react-course",
   "version": "0.1.0",
-  "private": true,
+  "private": null,
   "dependencies": {
     "firebase": "^8.0.0",
     "node-sass": "^4.11.0",
@@ -13,6 +13,8 @@
     "react-scripts": "2.1.8",
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
+    "reselect": "^4.0.0",
+    "selector": "^2.0.17",
     "yarn": "^1.22.10"
   },
   "scripts": {
